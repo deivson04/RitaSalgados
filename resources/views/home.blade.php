@@ -13,10 +13,12 @@
     <div id="topbar" class="hoc clear">
       <div class="fl_left"> 
         <!-- ################################################################################################ -->
-        <ul class="nospace">
-          <li><i class="form-group row"></i></li>
-          <!--li><i class="far fa-envelope rgtspace-5"></i>Ritathais@gmail.com</li-->
-        </ul>
+        <div class="form-group mx-sm-3 mb-2">
+          <label for="inputPassword2" class="sr-only">Senha</label>
+          <input type="password" class="form-control" id="inputPassword2" placeholder="Digite Seu Cpf">
+          <!--<button type="submit" class="btn btn-primary">Entrar</button>-->
+        </div>
+        
         <!-- ################################################################################################ -->
       </div>
       <div class="fl_right"> 
