@@ -9,4 +9,4 @@
 
 # Sobre o Projeto
 
-Nesse projeto é construido um site de vendas de kit festas. O objetivo é proporcionar o conforto ao cliente uma comida de boa qualidade e procedencia e praticidade na hora de comprar. 
+Nesse projeto é construido um site de vendas de kit festas. O objetivo é proporcionar o conforto ao cliente na hora da comprar, ja que e um site de delivery. 
